@@ -1,0 +1,3 @@
+Jarak Manhattan fitur kontrol setelah Min-Max scaling [0, 1]
+Rerata jarak PR terdekat kelompok berlawanan: 0.172985
+Median jarak PR terdekat kelompok berlawanan: 0.161365

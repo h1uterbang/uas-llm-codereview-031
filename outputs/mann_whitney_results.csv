@@ -1,0 +1,5 @@
+metric,non_assisted_n,rag_assisted_n,non_assisted_median_h,rag_assisted_median_h,u_statistic,p_value_two_sided,alpha,significant
+time_to_merge_h,150,150,38.818814,19.971196,696,7.9308027e-45,0.05,True
+at_review_h,150,150,2.6301492,0.89582977,230,1.029818e-48,0.05,True
+at_waiting_change_h,150,150,20.197441,2.9029612,0,1.0794279e-50,0.05,True
+at_change_h,150,150,1.0052933,0.95067804,10357,0.2348249,0.05,False

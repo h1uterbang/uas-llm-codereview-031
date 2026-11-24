@@ -1,0 +1,29 @@
+                              OLS Regression Results                             
+=================================================================================
+Dep. Variable:     log1p_time_to_merge_h   R-squared:                       0.642
+Model:                               OLS   Adj. R-squared:                  0.636
+Method:                    Least Squares   F-statistic:                     105.3
+Date:                   Tue, 24 Nov 2026   Prob (F-statistic):           2.03e-63
+Time:                           08:34:49   Log-Likelihood:                 1.5537
+No. Observations:                    300   AIC:                             8.893
+Df Residuals:                        294   BIC:                             31.12
+Df Model:                              5                                         
+Covariance Type:               nonrobust                                         
+===========================================================================================
+                              coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------
+const                       3.6048      0.143     25.202      0.000       3.323       3.886
+is_rag_assisted            -0.6369      0.028    -22.463      0.000      -0.693      -0.581
+log1p_no_commits            0.0606      0.040      1.507      0.133      -0.019       0.140
+log1p_PR_size               0.0045      0.019      0.233      0.816      -0.033       0.042
+log1p_no_changed_files      0.0058      0.040      0.143      0.887      -0.074       0.085
+log1p_project_age_month    -0.0105      0.018     -0.573      0.567      -0.047       0.026
+==============================================================================
+Omnibus:                        3.859   Durbin-Watson:                   2.118
+Prob(Omnibus):                  0.145   Jarque-Bera (JB):                3.542
+Skew:                           0.245   Prob(JB):                        0.170
+Kurtosis:                       3.208   Cond. No.                         65.4
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
