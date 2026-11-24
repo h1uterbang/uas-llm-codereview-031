@@ -73,8 +73,8 @@ flowchart TD
 
     S1 --> S2 --> S3 --> S4 --> S5
 
-    style S2 fill:#dbeafe,stroke:#1e3a8a,stroke-width:2px
-    style S3 fill:#fef3c7,stroke:#d97706,stroke-width:2px
+    style S2 fill:#dbeafe,stroke:#1e3a8a,stroke-width:2px,color:#0f172a
+    style S3 fill:#fef3c7,stroke:#d97706,stroke-width:2px,color:#0f172a
 ```
 
 ## Struktur proyek
