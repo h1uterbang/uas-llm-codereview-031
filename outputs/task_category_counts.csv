@@ -1,0 +1,31 @@
+phase,task_category,count
+Submission,Enhancement,61
+Submission,Bug Fix,57
+Submission,Documentation,25
+Submission,Implementation,80
+Submission,Testing,55
+Submission,Other,22
+Review,Enhancement,64
+Review,Bug Fix,67
+Review,Documentation,39
+Review,Implementation,63
+Review,Testing,40
+Review,Other,27
+Waiting for change,Enhancement,52
+Waiting for change,Bug Fix,62
+Waiting for change,Documentation,42
+Waiting for change,Implementation,73
+Waiting for change,Testing,44
+Waiting for change,Other,27
+Code change,Enhancement,52
+Code change,Bug Fix,64
+Code change,Documentation,41
+Code change,Implementation,77
+Code change,Testing,41
+Code change,Other,25
+Waiting after change,Enhancement,48
+Waiting after change,Bug Fix,71
+Waiting after change,Documentation,24
+Waiting after change,Implementation,91
+Waiting after change,Testing,35
+Waiting after change,Other,31
